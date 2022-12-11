@@ -1,20 +1,3 @@
-Sign up
-iyidaclem
-/
-alx-higher_level_programming
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-alx-higher_level_programming/0x01-python-if_else_loops_functions/13-insert_number.c
-@iyidaclem
-iyidaclem insert into sorted linkedlist
- 1 contributor
-51 lines (48 sloc)  898 Bytes
 #include "lists.h"
 #include <stddef.h>
 /**
